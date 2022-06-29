@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostSensitivePOMDP", "CostSensitivePOMDP.csproj", "{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug64|Any CPU = Debug64|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Debug64|Any CPU.ActiveCfg = Debug64|Any CPU
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Debug64|Any CPU.Build.0 = Debug64|Any CPU
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF8D495-72E7-48D2-A11E-353A0C35C8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A751E480-CBD1-4251-8CBB-BA92D870C86A}
+	EndGlobalSection
+EndGlobal
