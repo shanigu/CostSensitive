@@ -1,0 +1,111 @@
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe.config
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Visual studio 2015\Projects\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models)\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - TRY\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Orginal orginal\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Overffiting\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix -Combine\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Cost Sensitive Tree - Relevant Folder\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\CostSensitiveTree\CostSensitiveTree(with all models) - With Asymmetric MisClassification Matrix - Last v\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojResolveAssemblyReference.cache
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojAssemblyReference.cache
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CoreCompileInputs.cache
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CopyComplete
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+D:\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+E:\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+E:\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+E:\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+E:\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csprojAssemblyReference.cache
+E:\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CoreCompileInputs.cache
+E:\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CopyComplete
+E:\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+E:\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CoreCompileInputs.cache
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.exe
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\CostSensitiveTree.pdb
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.Runtime.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.CopyComplete
+C:\Users\shanigu\OneDrive - Ben Gurion University of the Negev\Research\projects\CostSensitivePOMDP\CostSensitiveTree\CostSensitiveTree\obj\Debug\CostSensitiveTree.csproj.AssemblyReference.cache
