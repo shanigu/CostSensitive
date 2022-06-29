@@ -1,0 +1,7 @@
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\bin\Debug\DatasetGeneration.exe.config
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\bin\Debug\DatasetGeneration.exe
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\bin\Debug\DatasetGeneration.pdb
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\obj\Debug\DatasetGeneration.csproj.CoreCompileInputs.cache
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\obj\Debug\DatasetGeneration.exe
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\obj\Debug\DatasetGeneration.pdb
+D:\Research\projects\CostSensitivePOMDP\DatasetGeneration\obj\Debug\DatasetGeneration.csprojAssemblyReference.cache
